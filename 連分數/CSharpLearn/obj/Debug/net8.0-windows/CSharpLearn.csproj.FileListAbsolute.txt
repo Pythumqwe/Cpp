@@ -1,0 +1,17 @@
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net8.0-windows\CSharpLearn.exe
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net8.0-windows\CSharpLearn.deps.json
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net8.0-windows\CSharpLearn.runtimeconfig.json
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net8.0-windows\CSharpLearn.dll
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net8.0-windows\CSharpLearn.pdb
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.csproj.GenerateResource.cache
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.AssemblyInfoInputs.cache
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.AssemblyInfo.cs
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.csproj.CoreCompileInputs.cache
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.dll
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\refint\CSharpLearn.dll
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.pdb
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.genruntimeconfig.cache
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\ref\CSharpLearn.dll
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.BmiCalculator.resources
+C:\Users\bmwz3\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net8.0-windows\CSharpLearn.Timer.resources

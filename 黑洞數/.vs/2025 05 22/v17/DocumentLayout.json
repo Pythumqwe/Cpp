@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\2025 05 22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C231A81-7262-434D-96F2-554D2BC9583F}|2025 05 22\\2025 05 22.csproj|d:\\c#\\2025 05 22\\2025 05 22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C231A81-7262-434D-96F2-554D2BC9583F}|2025 05 22\\2025 05 22.csproj|solutionrelative:2025 05 22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C231A81-7262-434D-96F2-554D2BC9583F}|2025 05 22\\2025 05 22.csproj|D:\\c#\\2025 05 22\\2025 05 22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C231A81-7262-434D-96F2-554D2BC9583F}|2025 05 22\\2025 05 22.csproj|solutionrelative:2025 05 22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\2025 05 22\\2025 05 22\\Form1.cs",
+              "RelativeDocumentMoniker": "2025 05 22\\Form1.cs",
+              "ToolTip": "D:\\c#\\2025 05 22\\2025 05 22\\Form1.cs",
+              "RelativeToolTip": "2025 05 22\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:31:55.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\2025 05 22\\2025 05 22\\Form1.cs",
+              "RelativeDocumentMoniker": "2025 05 22\\Form1.cs",
+              "ToolTip": "D:\\c#\\2025 05 22\\2025 05 22\\Form1.cs [Design]",
+              "RelativeToolTip": "2025 05 22\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:29:34.474Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
