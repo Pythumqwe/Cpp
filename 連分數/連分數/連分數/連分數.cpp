@@ -4,8 +4,7 @@ using namespace std;
 
 
 int num[100], p = 0, c = 0, l;
-// p -> parent
-// c -> child
+
 void function(int& p, int& c, int i);
 void swap();
 
