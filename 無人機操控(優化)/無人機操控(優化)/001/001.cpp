@@ -1,5 +1,5 @@
 ﻿#include<iostream>
-#include"Drone.h";
+#include"Drone.h"
 using namespace std;
 //.......................無人機操控(優化)......................//
 
